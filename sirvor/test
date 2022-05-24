@@ -1,0 +1,15 @@
+Content-type:text/html
+
+
+<html>
+<head>
+<title>Hello - Second CGI Program</title>
+</head>
+<body>
+<h2>Hello 3 4</h2>
+environ({'TMPDIR': '/var/folders/zz/zyxvpxvq6csfxvn_n000055h00019c/T/', 'SHELL': '/bin/zsh', 'HOME': '/Users/ayajrhou', 'SSH_AUTH_SOCK': '/private/tmp/com.apple.launchd.6sf5KakP8H/Listeners', 'Apple_PubSub_Socket_Render': '/private/tmp/com.apple.launchd.sNXSbm2yJk/Render', 'LOGNAME': 'ayajrhou', 'PATH': '/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/munki', 'XPC_SERVICE_NAME': '0', 'COMMAND_MODE': 'unix2003', 'USER': 'ayajrhou', 'SECURITYSESSIONID': '186a8', 'XPC_FLAGS': '0x0', '__CF_USER_TEXT_ENCODING': '0x52C:0x0:0x0', 'ORIGINAL_XDG_CURRENT_DESKTOP': 'undefined', 'SHLVL': '1', 'PWD': '/Users/ayajrhou/Desktop/sirvor', 'OLDPWD': '/Users/ayajrhou/Desktop/sirvor', 'TERM_PROGRAM': 'vscode', 'TERM_PROGRAM_VERSION': '1.66.2', 'LANG': 'en_US.UTF-8', 'COLORTERM': 'truecolor', 'VSCODE_GIT_IPC_HANDLE': '/var/folders/zz/zyxvpxvq6csfxvn_n000055h00019c/T/vscode-git-6dac9d39fc.sock', 'VSCODE_GIT_ASKPASS_NODE': '/Applications/Visual Studio Code.app/Contents/MacOS/Electron', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '--ms-enable-electron-run-as-node', 'VSCODE_GIT_ASKPASS_MAIN': '/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass-main.js', 'GIT_ASKPASS': '/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass.sh', 'TERM': 'xterm-256color', '_': '/Users/ayajrhou/Desktop/sirvor/./a.out', 'GATEWAY_INTERFACE': 'CGI/1.1', 'SERVER_SOFTWARE': 'websert', 'SERVER_PROTOCOL': 'HTTP/1.1', 'SERVER_PORT': '8000', 'REQUEST_METHOD': 'POST', 'PATH_INFO': '/usr/bin/python', 'SCRIPT_NAME': 'script.py', 'CONTENT_TYPE': 'application/x-www-form-urlencoded', 'CONTENT_LENGTH': '14', 'HTTP_USER_AGENT': 'gfx'})
+</body>
+</html>
+': '14', 'HTTP_USER_AGENT': 'gfx'})
+</body>
+</html>
